@@ -1,28 +1,40 @@
-name: Magnusboe
 favicon: null
-layout_spectrum: 0.6024140426889062
-typography_spectrum: 0.8498849219176918
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Magnusboe
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0.09890187159180641
+  lightness: 0.7043011
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.09890187159180641
-  lightness: 0.294364987174049
-  saturation: 0.8185168234631419
-  rhythmicContrast: 0.7511670098174363
-purpose: []
+  rhythmicContrast: 0.765233
+typography_spectrum: 0.4032258
+layout_spectrum: 0.7043011
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
