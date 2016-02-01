@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:11:19.856Z'
-dateModified: '2016-02-01T20:11:16.596Z'
+datePublished: '2016-02-01T20:11:54.064Z'
+dateModified: '2016-02-01T20:11:38.105Z'
 title: Testing The Grid
 author: []
+sourcePath: _posts/2016-02-01-testing-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-testing-the-grid.md
-published: true
 url: testing-the-grid/index.html
 _type: Article
 
